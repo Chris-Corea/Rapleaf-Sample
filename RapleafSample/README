@@ -1,0 +1,8 @@
+An example of Rapleaf's Personalization API used with contacts from a specified Google account.
+
+**Note - check the "deps" directory for all dependencies and external jars needed to contact Google's
+         service and Rapleaf's API. 
+
+To run:
+    java GContact [-v | -verbose]
+
